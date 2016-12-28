@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hzliucheng\android-sdks\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\hzliucheng\workspace-android-sdk\nos-android-sdk\nos-android-sdk-as\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_80f7228d6f978dbce86703803b40b4887f6c9459.jar" />
+    </item>
+    <item
+        jar="D:\hzliucheng\workspace-android-sdk\nos-android-sdk\nos-android-sdk-as\app\build\intermediates\exploded-aar\nos-android-sdk-as\NosAndroidLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5b5c6861fb7e5dc4c288355ef6036ec44771edaa">
+        <dex dex="D:\hzliucheng\workspace-android-sdk\nos-android-sdk\nos-android-sdk-as\app\build\intermediates\pre-dexed\debug\nos-android-sdk-as-NosAndroidLib-unspecified_dddc0e71c66af763666489003208bd0d5693800e.jar" />
+    </item>
+
+</items>

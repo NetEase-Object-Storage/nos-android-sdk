@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="D:\hzliucheng\workspace-android-sdk\nos-android-sdk\nos-android-sdk-as\app\build\intermediates\exploded-aar\nos-android-sdk-as\NosAndroidLib\unspecified\assets"/></dataSet><dataSet config="main"><source path="D:\hzliucheng\workspace-android-sdk\nos-android-sdk\nos-android-sdk-as\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="D:\hzliucheng\workspace-android-sdk\nos-android-sdk\nos-android-sdk-as\app\src\debug\assets"/></dataSet></merger>
