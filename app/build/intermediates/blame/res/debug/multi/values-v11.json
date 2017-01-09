@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\hzliucheng\\workspace-android-sdk\\nos-android-sdk\\nos-android-sdk-as\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "outputFile": "E:\\nos-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 187
                 },
                 "from": {
-                    "file": "D:\\hzliucheng\\workspace-android-sdk\\nos-android-sdk\\nos-android-sdk-as\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "E:\\nos-android-sdk\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

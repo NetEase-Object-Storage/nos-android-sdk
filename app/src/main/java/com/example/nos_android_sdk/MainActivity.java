@@ -131,13 +131,6 @@ public class MainActivity extends Activity implements OnClickListener {
 
 		} catch (NumberFormatException e) {
 			e.printStackTrace();
-		} catch (InvalidChunkSizeException e) {
-			e.printStackTrace();
-		} catch (InvalidParameterException e) {
-			e.printStackTrace();
-			Toast.makeText(this,
-					e.getMessage(), Toast.LENGTH_SHORT).show();
-			return;
 		} catch (Exception e) {
 			e.printStackTrace();
 			Toast.makeText(this,
@@ -631,14 +624,6 @@ public class MainActivity extends Activity implements OnClickListener {
 				}).start();
 			}
 
-		} catch (InvalidKeyException e) {
-			e.printStackTrace();
-		} catch (NoSuchAlgorithmException e) {
-			e.printStackTrace();
-		} catch (JSONException e) {
-			e.printStackTrace();
-		} catch (InvalidParameterException e) {
-			e.printStackTrace();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -658,5 +643,4 @@ public class MainActivity extends Activity implements OnClickListener {
 		}
 		doUpload(data.getData(), requestCode);
 	}
-
 }

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\hzliucheng\\workspace-android-sdk\\nos-android-sdk\\nos-android-sdk-as\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "E:\\nos-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "D:\\hzliucheng\\workspace-android-sdk\\nos-android-sdk\\nos-android-sdk-as\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "E:\\nos-android-sdk\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "D:\\hzliucheng\\workspace-android-sdk\\nos-android-sdk\\nos-android-sdk-as\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "E:\\nos-android-sdk\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "D:\\hzliucheng\\workspace-android-sdk\\nos-android-sdk\\nos-android-sdk-as\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\nos-android-sdk\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 262
                 },
                 "from": {
-                    "file": "D:\\hzliucheng\\workspace-android-sdk\\nos-android-sdk\\nos-android-sdk-as\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\nos-android-sdk\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 315
                 },
                 "from": {
-                    "file": "D:\\hzliucheng\\workspace-android-sdk\\nos-android-sdk\\nos-android-sdk-as\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\nos-android-sdk\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -107,7 +107,7 @@
                     "endOffset": 606
                 },
                 "from": {
-                    "file": "D:\\hzliucheng\\workspace-android-sdk\\nos-android-sdk\\nos-android-sdk-as\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\nos-android-sdk\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -128,7 +128,7 @@
                     "endOffset": 766
                 },
                 "from": {
-                    "file": "D:\\hzliucheng\\workspace-android-sdk\\nos-android-sdk\\nos-android-sdk-as\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\nos-android-sdk\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

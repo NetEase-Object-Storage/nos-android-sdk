@@ -42,6 +42,31 @@
 -keep public class * extends android.content.ContentProvider
 # -keep public class * extends android.support.v4.widget
 
+-dontwarn com.sun.nio.sctp.**
+-dontwarn org.jboss.marshalling.**
+-dontwarn gnu.io.**
+-dontwarn java.nio.channels.**
+-dontwarn java.net.**
+-dontwarn com.barchart.udt.**
+-dontwarn com.jcraft.jzlib.**
+-dontwarn com.google.protobuf.**
+-dontwarn org.eclipse.jetty.npn.**
+-dontwarn javax.net.ssl.**
+-dontwarn org.apache.tomcat.jni.**
+-dontwarn org.bouncycastle.asn1.**
+-dontwarn sun.security.x509.**
+-dontwarn sun.misc.**
+-dontwarn javassist.**
+-dontwarn org.bouncycastle.cert.jcajce.**
+-dontwarn org.bouncycastle.operator.jcajce.**
+-dontwarn org.bouncycastle.cert.**
+-dontwarn org.bouncycastle.cert.jcajce.**
+-dontwarn org.bouncycastle.jce.provider.**
+-dontwarn org.bouncycastle.operator.**
+-dontwarn org.apache.commons.logging.**
+-dontwarn org.apache.log4j.**
+-dontwarn org.slf4j.**
+
 -keepclasseswithmembernames class * {     # 保持 native 方法不被混淆
     native <methods>;
 }

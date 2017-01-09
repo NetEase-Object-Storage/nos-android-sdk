@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\hzliucheng\workspace-android-sdk\nos-android-sdk\nos-android-sdk-as\app\src\androidTest\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\nos-android-sdk\app\src\androidTest\assets"/><source path="E:\nos-android-sdk\app\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>
