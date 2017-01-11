@@ -12,9 +12,9 @@ public class AcceleratorConf {
 
 	private static final String LOGTAG = LogUtil.makeLogTag(AcceleratorConf.class);
 	
-	private String lbsHost = "http://lbs.eastchina1.126.net/lbs";
+	private String lbsHost = "http://lbs-eastchina1.126.net/lbs";
 	private String lbsIP = "http://106.2.45.249/lbs";
-	private String monitorHost = "http://lbs.eastchina1.126.net";
+	private String monitorHost = "http://lbs-eastchina1.126.net";
 	private String charset = "utf-8";
 
 	private int connectionTimeout = 10 * 1000;
